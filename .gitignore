@@ -1,0 +1,14 @@
+# Node modules in any subdirectory
+**/node_modules/
+
+**/.DS_Store
+**/.env
+**/.env.local
+**/.idea/
+**/*.log
+**/dist/
+**/build/
+
+next-client/dist/
+next-test/dist/
+.vscode/
