@@ -1,0 +1,32 @@
+.app-header {
+  padding: 1rem 2rem;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  justify-content: flex-start;
+}
+
+.logo-text {
+  font-family: 'Righteous', cursive;
+  font-size: 2rem;
+  color: #004d40;
+  margin: 0;
+  background: linear-gradient(45deg, #004d40, #00796b);
+  background-clip: text;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 480px) {
+  .app-header {
+    padding: 0.75rem;
+  }
+
+  .logo img {
+    height: 30px;
+  }
+} 

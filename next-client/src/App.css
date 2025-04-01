@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #3bd5f4;;
+}
