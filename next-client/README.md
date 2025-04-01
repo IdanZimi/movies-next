@@ -19,7 +19,7 @@ A React-based movie browsing application that allows users to search and filter 
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/IdanZimi/next-movies.git>
+git clone https://github.com/IdanZimi/movies-next.git
 cd next-movies/next-client
 ```
 
@@ -27,7 +27,10 @@ cd next-movies/next-client
 ```bash
 npm install
 ```
-3. Run the server at /next-movies/next-test
+3. Run the server at /next-movies/next-test with
+```bash
+npm start 
+```
 
 ## Development
 
