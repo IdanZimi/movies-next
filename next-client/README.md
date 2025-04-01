@@ -41,6 +41,7 @@ The application will be available at `http://localhost:5173`
 ## Testing
 
 The project uses Jest and React Testing Library for testing.
+Test files located within the components folders.
 
 To run all tests:
 ```bash
@@ -74,7 +75,6 @@ next-client/
 │   ├── App.jsx
 │   └── main.jsx
 ├── public/
-└── tests/
 ```
 
 ## Technologies Used
