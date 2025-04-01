@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#FFFFFF">
-    <path d="M20 10h-15c-1.1 0-2 .9-2 2v26c0 1.1.9 2 2 2h15c1.1 0 2-.9 2-2V12c0-1.1-.9-2-2-2zm-5 28h-5v-2h5v2zm5-6H5V12h15v20z"/>
-    <text x="45" y="35" font-family="Arial" font-size="24" font-weight="bold">NEXT</text>
-    <text x="120" y="35" font-family="Arial" font-size="24">Movies</text>
-  </g>
-</svg> 
